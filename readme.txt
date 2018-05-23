@@ -1,2 +1,2 @@
 Hello
-This my git is simple.
+This my git is simple software.
