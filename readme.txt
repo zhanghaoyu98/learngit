@@ -1,3 +1,3 @@
 Hello
 This my git is simple software.
-Createing a new branch is quick.
+Createing a new branch is quick & simple.
